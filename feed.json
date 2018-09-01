@@ -1,0 +1,29 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Expert Decisions / AUGY / Evan Morrison",
+    "description": "",
+    "home_page_url": "https://edm92.github.io/websites",
+    "feed_url": "https://edm92.github.io/websites/feed.json",
+    "user_comment": "",
+    "icon": "https://edm92.github.io/websites/media/website/Augy2-1.jpg",
+    "author": {
+        "name": "Evan Morrison"
+    },
+    "items": [
+        {
+            "id": "https://edm92.github.io/websites/sampler.html",
+            "url": "https://edm92.github.io/websites/sampler.html",
+            "title": "Sampler",
+            "summary": "Hello world this is a sample of a blog written on Publii.",
+            "content_html": "Hello world this is a sample of a blog written on Publii.",
+            "image": "https://edm92.github.io/websites/media/posts/1/",
+            "author": {
+                "name": "Evan Morrison"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-09-01T16:13:11+10:00",
+            "date_modified": "2018-09-01T16:13:11+10:00"
+        }
+    ]
+}

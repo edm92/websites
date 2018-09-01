@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Expert Decisions / AUGY / Evan Morrison</title>
+    <link href="https://edm92.github.io/websites/feed.xml" rel="self" />
+    <link href="https://edm92.github.io/websites" />
+    <updated>2018-09-01T16:13:21+10:00</updated>
+    <author>
+        <name>Evan Morrison</name>
+    </author>
+    <id>https://edm92.github.io/websites</id>
+
+    <entry>
+        <title>Sampler</title>
+        <author>
+            <name>Evan Morrison</name>
+        </author>
+        <link href="https://edm92.github.io/websites/sampler.html"/>
+        <id>https://edm92.github.io/websites/sampler.html</id>
+
+        <updated>2018-09-01T16:13:11+10:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://edm92.github.io/websites/media/posts/1/" alt="" />
+                    Hello world this is a sample of a blog written on Publii.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://edm92.github.io/websites/media/posts/1/" alt="" />
+                Hello world this is a sample of a blog written on Publii.
+            ]]>
+        </content>
+    </entry>
+</feed>
